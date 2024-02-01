@@ -1,0 +1,24 @@
+Major Update: Added Enemy Rarity
+---------------------------------------------------------------------------------------------------
+
+ARPG Enemy System is the second mod of my ARPG overhaul series that aim to bring new RPG experience to Terraria.
+
+---------------------------------------------------------------------------------------------------
+
+Every enemy (modded also counts) has their own level and scales based on your boss progression (yes, modded bosses also count). In addition, they have modifier system which allows them to have more tools to murder you.
+
+---------------------------------------------------------------------------------------------------
+
+This mod is for those who install too many power up mods and are seeking for a way to balance their playthrough.
+
+Have fun.
+
+---------------------------------------------------------------------------------------------------
+
+CREDIT
+
+Big thanks to the super helpful tModloader Community for all the help.
+Thank you Michaelsoftman for the level desync issue.
+And finally my appreciation towards Plexus, developer of the super cool Another RPG Mod which heavily inspired me to make this mod. He was very kind to expose his entire source code so I and the others can learn.
+
+[quote=Michaelsoftman]Remember to credit me as co-dev[/quote]

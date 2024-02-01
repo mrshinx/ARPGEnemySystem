@@ -1,0 +1,59 @@
+Configs: {
+	Config: {
+		DisplayName: ARPG Enemy System Config
+
+		BossDamageIncreasePerLevel: {
+			Tooltip: x 100%
+			Label: Boss Damage Increase Per Level
+		}
+
+		BossDefenseIncreasePerLevel: {
+			Tooltip: x 100%
+			Label: Boss Defense Increase Per Level
+		}
+
+		BossHPIncreasePerLevel: {
+			Tooltip: x 100%
+			Label: Boss HP Increase Per Level
+		}
+
+		Headers: {
+			Boss: Boss Config
+			NormalEnemy: Normal Enemy Config
+		}
+
+		NormalEnemyDamageIncreasePerLevel: {
+			Tooltip: x 100%
+			Label: Normal Enemy Damage Increase Per Level
+		}
+
+		NormalEnemyDefenseIncreasePerLevel: {
+			Tooltip: x 100%
+			Label: Normal Enemy Defense Increase Per Level
+		}
+
+		NormalEnemyHPIncreasePerLevel: {
+			Tooltip: x 100%
+			Label: Normal Enemy HP Increase Per Level
+		}
+
+		LevelCapIncreasePerBossDowned: {
+			Tooltip: ""
+			Label: Level Cap Increase Per Boss Downed
+		}
+
+		ModifierAllowed: {
+			Label: Modifier Allowed
+			Tooltip: Toggle enemy modifier
+		}
+	}
+
+	ConfigClient: {
+		DisplayName: Config Client
+
+		EnableEnemyStatPanel: {
+			Label: Enable Enemy Stat Panel
+			Tooltip: Enable or Disable Enemy Stat Panel
+		}
+	}
+}
