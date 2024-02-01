@@ -14,7 +14,6 @@ From this reason, I came up with this mod in hope of having a more balanced play
 - Compatible with Multiplayer.
 - All features are fully customizable.
 - HIGHLY COMPATIBLE WITH OTHER MODDED CONTENT. Modded enemies are able to benefit from the scaling and modded bosses also count toward enemy level.
-- 
 ## Preview
 Normal enemies have level, modifier and rank 
 
