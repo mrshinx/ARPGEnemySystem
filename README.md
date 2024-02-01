@@ -19,6 +19,11 @@ Normal enemies have level, modifier and rank
 
 ![image](https://github.com/mrshinx/ARPGEnemySystem/assets/45674057/173142e4-47fc-4fa3-b8f6-e4182a789ff7)
 
-Bosses only have level but their level are generally higher than normal.
+Bosses only have level but their level are generally higher than normal
+
 ![image](https://github.com/mrshinx/ARPGEnemySystem/assets/45674057/93895490-958e-4d9c-a947-7091e20c039c)
+
+Configuration
+
+![image](https://github.com/mrshinx/ARPGEnemySystem/assets/45674057/10a35c66-a589-42cf-b638-17cd19ad0715)
 
