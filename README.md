@@ -1,5 +1,5 @@
 # ARPG Enemy System Mod for Terraria
-
+https://steamcommunity.com/sharedfiles/filedetails/?id=3027691283
 ## What this mod does
 This mod was originally created to address a problem that I have always had while playing modded Terraria, with RPG mods to be specific: Enemy scaling.
 
